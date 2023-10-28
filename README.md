@@ -1,1 +1,1 @@
-# paradigms_3366
+# paradigms
