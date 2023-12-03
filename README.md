@@ -1,1 +1,1 @@
-# paradigms
+HW_Git_1
